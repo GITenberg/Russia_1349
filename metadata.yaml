@@ -1,0 +1,30 @@
+_repo: Russia_1349
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallace, Donald Mackenzie
+    alias: Wallace, D. Mackenzie (Donald Mackenzie)
+    birthdate: 1841
+    deathdate: 1919
+    gutenberg_agent_id: '614'
+    url: http://www.gutenberg.org/2009/agents/614
+    wikipedia: http://en.wikipedia.org/wiki/Donald_Mackenzie_Wallace
+description: ''
+gutenberg_issued: '2006-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Industries -- Russia -- History -- 19th century'
+- !lcsh 'Peasants -- Russia'
+- !lcsh 'Nobility -- Russia'
+- !lcc 'DK'
+- !lcsh 'Russia -- Religious life and customs'
+- !lcsh 'Russia -- Politics and government -- 1801-1917'
+- GITenberg
+title: Russia
+url: http://www.gutenberg.org/ebooks/1349
